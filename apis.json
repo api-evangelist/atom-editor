@@ -1,0 +1,59 @@
+{
+    "name": "Atom Editor",
+    "description": "At GitHub, we???re building the text editor we???ve always wanted: hackable to the core, but approachable on the first day without ever touching a config file. We can???t wait to see what you build with it.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18746-atom-editor.jpg",
+    "tags": [
+        "api service provider",
+        "api tools",
+        "editor",
+        "github",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/atom-editor\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Atom Editor",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18746-atom-editor.jpg",
+            "humanURL": "https:\/\/atom.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/atom-editor-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.atom.io\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.atom.io\/feed.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/atom"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/atom"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/atomeditor"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/atom.io\/"
+        }
+    ]
+}
